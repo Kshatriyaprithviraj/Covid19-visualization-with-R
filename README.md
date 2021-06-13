@@ -48,6 +48,10 @@ The above opinion is completely subjective. 🙌🏻
 - **Final_countrywise_cases_line_plot** <br>
   This variable gives a plot which gives an insight about the most effected countries by juxtaposing them.
 
+# Dataset 💾
+
+You can use this [link](./Data) to have a look at the dataset.
+
 # Snapshots 📷
 
 You can open this [link](./Snapshots) to have a look at all the graphs that the above variables produced.
