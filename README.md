@@ -15,9 +15,9 @@ Hello amigos and amigas !! 🧑🏻‍🤝‍🧑🏻
 
 This project is just an experimention to get some hands on experience with **R programming** and speaking of which, was a **knity** experience of nasty and roller-coaster ride.
 
-I personally felt that **R programming** is **great** for praticing purposes' alike. It's better to pratice in **R** few days when getting hands dirty with **Machine learning** or **Deep learning** as a beginner.
+I personally felt that **R programming** is **great** for praticing purposes' and others alike. It's better to pratice in **R** few days when getting hands dirty with **Machine learning** or **Deep learning** as a beginner and can continue if you'd like to keep using **R**.
 
-To conclude, I personally felt ML/DL with **R programming** is a laborious task (at least for me) and I'd prefer to use it only in the hour of (extreme) need or when there's no other choice left.
+I personally enjoyed **R programming** as it gave me even more clear picture of what is to be done if you'd want to **implement from scratch**
 
 Though, the dataset, I used is quite old for the kind of project this is but, I had great a experience playing around with it. ✨
 
