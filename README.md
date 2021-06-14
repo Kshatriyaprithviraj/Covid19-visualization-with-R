@@ -13,15 +13,7 @@ Covid-19 data visualization and minimalist implementation of **Linear regression
 
 Hello amigos and amigas !! 🧑🏻‍🤝‍🧑🏻
 
-This project is just an experimention to get some hands on experience with **R programming** and speaking of which, was a **knity** experience of nasty and roller-coaster ride.
-
-I personally felt that **R programming** is **great** for praticing purposes' and others alike. It's better to pratice in **R** few days when getting hands dirty with **Machine learning** or **Deep learning** as a beginner and can continue if you'd like to keep using **R**.
-
-I personally enjoyed **R programming** as it gave me even more clear picture of what is to be done if you'd want to **implement from scratch**
-
-Though, the dataset, I used is quite old for the kind of project this is but, I had great a experience playing around with it. ✨
-
-The above opinion is completely subjective. 🙌🏻
+This project is just an experimention to get some hands on experience with **R programming**. 🙌🏻
 
 # Delineation 🧮
 
