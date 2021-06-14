@@ -9,9 +9,6 @@ Covid-19 data visualization and minimalist implementation of **Linear regression
 - [dplyr](https://dplyr.tidyverse.org//)
 - [xlsx](https://cran.r-project.org/web/packages/xlsx/index.html)
 
-# Disclaimer before Delineation 🔔
-
-
 # Delineation 🧮
 Hello amigos and amigas !! 🧑🏻‍🤝‍🧑🏻
 This project is just an experimention to get some hands on experience with **R programming**. 🙌🏻
