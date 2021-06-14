@@ -11,11 +11,10 @@ Covid-19 data visualization and minimalist implementation of **Linear regression
 
 # Disclaimer before Delineation 🔔
 
-Hello amigos and amigas !! 🧑🏻‍🤝‍🧑🏻
-
-This project is just an experimention to get some hands on experience with **R programming**. 🙌🏻
 
 # Delineation 🧮
+Hello amigos and amigas !! 🧑🏻‍🤝‍🧑🏻
+This project is just an experimention to get some hands on experience with **R programming**. 🙌🏻
 
 ## Variables which contain plots 🖍✍📐
 
