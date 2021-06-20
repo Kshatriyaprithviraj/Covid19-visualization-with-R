@@ -1,6 +1,6 @@
 # Covid-19-visualization-with-R 📈
 
-Covid-19 data visualization and minimalist implementation of **Linear regression lm** using R programming.😷👀
+Covid-19 data visualization and minimalist implementation of **Linear regression lm** in R programming.😷👀
 
 # Libraries used ​📚
 
